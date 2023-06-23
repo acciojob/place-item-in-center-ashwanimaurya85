@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.holder{
+	background-color: red;
+	display: flex;
+	justify-content: center;
+	
+}
+.a{
+	background-color: blue;
+	padding:10px;
+	text-item: right;
+
+	margin:10px;
+	text-position:center;
+	
+}
